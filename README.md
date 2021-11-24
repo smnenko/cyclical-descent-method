@@ -37,3 +37,8 @@ python3 main.py
 
 ### Screenshots
 * Welcome windows with start configuration
+![Welcome window](https://github.com/smnenko/cyclical-descent-method/blob/master/docs/welcome.png)
+* After calculate button click
+![Calculate clicked](https://github.com/smnenko/cyclical-descent-method/blob/master/docs/calculate.png)
+* After clear button click
+![Clear clicked](https://github.com/smnenko/cyclical-descent-method/blob/master/docs/clear.png)
