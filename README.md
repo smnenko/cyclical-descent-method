@@ -1,6 +1,6 @@
 # Cyclical Descent Method Application
 That repository is result of my course work at university. It was developed on Python programming language with PyQt5. 
-It shows chart that was made with maplotlib library. There is *.ui file inside therefore you able to configrate application design via QtDesigner.<br /><br />
+It shows chart that was made with maplotlib library. There is *.ui file inside therefore you able to configure application design via QtDesigner.<br /><br />
 Subject:  Optimization of the Design Solutions  
 Theme: Build application that can solve multidimensional optimization problem via Cyclical Decent Method  
 
